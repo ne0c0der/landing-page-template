@@ -1,6 +1,6 @@
 # 🛫 Landing Page Template
 
-![Preview](./assets/screenshot.jpg)
+![Preview](./assets/preview.jpg)
 
 A basic but beautiful static landing page to collect waitlist signups. No backend needed. Perfect for founders, makers, and indie hackers.
 
