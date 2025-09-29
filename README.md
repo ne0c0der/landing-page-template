@@ -1,5 +1,5 @@
 # 🛫 Landing Page Template
-
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Preview](./assets/preview.jpeg)
 
 A basic but beautiful static landing page to collect waitlist signups. No backend needed. Perfect for founders, makers, and indie hackers.
@@ -16,3 +16,6 @@ A basic but beautiful static landing page to collect waitlist signups. No backen
 
 ## 📝 License
 MIT — use freely!
+
+---
+Built with ⚡️ by [@ne0c0der](https://github.com/ne0c0der)
