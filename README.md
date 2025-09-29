@@ -19,7 +19,7 @@ A basic but beautiful static landing page to collect waitlist signups. No backen
 MIT — use freely!
 
 ---
-Built with  by [@ne0c0der](https://github.com/ne0c0der)
+Built  by [@ne0c0der](https://github.com/ne0c0der)
 ---
 
 ### 📫 Stay Connected
