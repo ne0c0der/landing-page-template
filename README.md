@@ -1,5 +1,5 @@
 # 🛫 Landing Page Template
-<br/>
+
 ![Preview](./assets/preview.jpeg)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
