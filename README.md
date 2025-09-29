@@ -18,4 +18,13 @@ A basic but beautiful static landing page to collect waitlist signups. No backen
 MIT — use freely!
 
 ---
-Built with ⚡️ by [@ne0c0der](https://github.com/ne0c0der)
+Built with  by [@ne0c0der](https://github.com/ne0c0der)
+---
+
+### 📫 Stay Connected
+
+[🐦 Twitter](https://twitter.com/ne0c0der) • [💻 GitHub](https://github.com/ne0c0der) • [💬 Discord](https://discord.gg/MU82kkA7) • [✉️ Email](mailto:support@temporalaitechnologies.com)
+
+<br/>
+
+© 2025 **Temporal AI Technologies Inc.** — All rights reserved.
